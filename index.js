@@ -1,4 +1,3 @@
-console.error("HALP!")
-console.log("I want to Log!")
-console.warn("warning!")
 var word = "bird"
+var a = 5
+var b = 2
